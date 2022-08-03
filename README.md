@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Hi there 👋  I am Mohamad Ijas..
+
+## A self taught Goland developer.
+
+A self taught Golang developer, passionate about programming who loves problem solving also fast learner with good communication skills. And motivated to upgrade and expand the skill set throughout life. Switching platforms is not hard. Looking forward to gain meaningful employment with a company that will allow personal and professional growth without limiting the opportunity for further enlightenment and enhanced education.
 
 <!--
 **ijasmoopan/ijasmoopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
