@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 </div>
 </details>
 
+<--
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
@@ -73,3 +74,4 @@ Here are some ideas to get you started:
      <br>
   </div>    
 </details>
+-->
