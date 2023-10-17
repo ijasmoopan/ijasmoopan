@@ -1,6 +1,6 @@
-# Hi there 👋  I am Mohamad Ijas..
+# Hi there👋 I am Ijas Mohamad..
 
-## Software Engineer
+## A Software Engineer
 
 ![image](https://user-images.githubusercontent.com/97793229/182524392-ad2eaa1e-623c-48ef-8efe-2af3a96dcead.png)
 
