@@ -1,32 +1,14 @@
-# Hi there👋 I am Ijas Mohamad..
+# Hi there👋 I am Ijas Mohamad
 
-## A Software Engineer
+#### Software Engineer | Go | Java | JavaScript
 
-![image](https://user-images.githubusercontent.com/97793229/182524392-ad2eaa1e-623c-48ef-8efe-2af3a96dcead.png)
+![GitHub followers](https://img.shields.io/github/followers/ijasmoopan?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ijasmoopan?style=social) <img src="https://komarev.com/ghpvc/?username=ijasmoopan" alt="ijasmoopan" />
 
 A self taught Software Engineer, passionate about programming who loves problem solving also fast learner with good communication skills. And motivated to upgrade and expand the skill set throughout life. Switching platforms is not hard. Looking forward to gain meaningful employment with a company that will allow personal and professional growth without limiting the opportunity for further enlightenment and enhanced education.
 
-<!--
-**ijasmoopan/ijasmoopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ![image](https://user-images.githubusercontent.com/97793229/182523426-4a1a13f0-620e-4749-8264-f757631301f4.png) -->
-
-
-  <summary>☎️ Contact me</summary>
+## 😎 You can reach me by
 <div>
   <samp>
-    <h2 align="center">😎 You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/ijasmoopan/" target="blank"><img align="center"
@@ -53,5 +35,37 @@ Here are some ideas to get you started:
     </p>
   </samp>
 </div>
+
+<br>
+
+## ⚙️ GitHub Analytics
+<p align="center">
+  <a href="https://github.com/ijasmoopan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ijasmoopan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ijasmoopan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ijasmoopan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ijasmoopan&theme=dark" height="180em" />
+</p>
+
+<br>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ijasmoopan&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+
+## 🐍 That's how commits move...
+
+<div align="center">
+  <a href="https://github.com/ijasmoopan/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 
