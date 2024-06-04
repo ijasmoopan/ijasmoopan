@@ -28,7 +28,7 @@ A self taught Software Engineer, passionate about programming who loves problem 
       <a href="https://wa.me/+917034464400" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="+917034464400" height="30"/></a>
-      <a href="https://x/ijas_moopan" target="blank"><img align="center"
+      <a href="https://x.com/ijasmoopan" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="ijasmoopan" height="30"/></a>
       <br>
