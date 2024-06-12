@@ -38,6 +38,11 @@ A self taught Software Engineer, passionate about programming who loves problem 
 
 <br>
 
+## LinkedIn Profile
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ijasmoopan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ijasmoopan?trk=profile-badge">Ijas Mohamad</a></div>
+              
+
 ## ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/ijasmoopan">
