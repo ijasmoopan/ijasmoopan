@@ -1,6 +1,6 @@
 # Hi there👋 I am Ijas Mohamad
 
-#### Software Engineer | Go | Java | JavaScript
+#### Software Engineer | Golang | Java | JavaScript
 
 ![GitHub followers](https://img.shields.io/github/followers/ijasmoopan?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ijasmoopan?style=social) <img src="https://komarev.com/ghpvc/?username=ijasmoopan" alt="ijasmoopan" />
 
