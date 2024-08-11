@@ -12,9 +12,7 @@
 <br>
 </div>
 
-<div display="flex" height="20px">
-    <br>
-</div>
+### Stay Curious!
 
 #### Software Engineer | Golang | Java | JavaScript
 
