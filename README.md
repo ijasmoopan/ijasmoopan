@@ -15,7 +15,7 @@
 <p align="center" width="100%">
     Stay Curious!
 </p>
-<br>
+
 </div>
 
 #### Software Engineer | Golang | Java | JavaScript
