@@ -4,7 +4,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ijasmoopan?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ijasmoopan?style=social) <img src="https://komarev.com/ghpvc/?username=ijasmoopan" alt="ijasmoopan" />
 
-A self taught Software Engineer, passionate about programming who loves problem solving also fast learner with good communication skills. And motivated to upgrade and expand the skill set throughout life. Switching platforms is not hard. Looking forward to gain meaningful employment with a company that will allow personal and professional growth without limiting the opportunity for further enlightenment and enhanced education.
+I'm Ijas Mohamad, a self-taught developer passionate about leveraging cutting-edge technologies to tackle digital challenges. With expertise in diverse tools and frameworks like Java, Spring boot, Golang, Echo, JavaScript, Node.js, TypeScript, Fastify, Express.js, React.js, Redux, MongoDB and PostgreSQL, I specialize in full-stack development.
+
+Outside of work, I'm an avid learner, continuously expanding my skill set and contributing to the developer community through open-source projects and participation in coding competitions. Let's connect and explore how we can innovate together!
+
+Open to exciting opportunities where I can contribute my expertise and drive innovation in software development.
 
 ## 😎 You can reach me by
 <div>
@@ -58,14 +62,5 @@ A self taught Software Engineer, passionate about programming who loves problem 
 ![](https://github-profile-trophy.vercel.app/?username=ijasmoopan&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
-
-## 🐍 That's how commits move...
-
-<div align="center">
-  <a href="https://github.com/ijasmoopan/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 
