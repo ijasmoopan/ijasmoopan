@@ -10,12 +10,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
-  <br>
-</div>
+
+<div>
 
 #### Software Engineer | Golang | Java | JavaScript
 
 ![GitHub followers](https://img.shields.io/github/followers/ijasmoopan?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ijasmoopan?style=social) <img src="https://komarev.com/ghpvc/?username=ijasmoopan" alt="ijasmoopan" />
+
+</div>
+</div>
 
 # 👨‍💻 About me
 
