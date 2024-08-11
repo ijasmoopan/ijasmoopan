@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<div>
+<div display="flex" justify-content="center">
 
 #### Software Engineer | Golang | Java | JavaScript
 
