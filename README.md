@@ -12,8 +12,8 @@
 <br>
 
 
-<p align="center">
-    <h2 style="text-align: center;">Stay Curious!</h2>
+<p align="center" width="100%">
+    Stay Curious!
 </p>
 </div>
 
