@@ -26,7 +26,7 @@
 
 # 👨‍💻 About me
 
-I'm Ijas Mohamad, a self-taught developer passionate about leveraging cutting-edge technologies to tackle digital challenges. With expertise in diverse tools and frameworks like Java, Spring boot, Golang, Echo, JavaScript, Node.js, TypeScript, Fastify, Express.js, React.js, Redux, MongoDB and PostgreSQL, I specialize in full-stack development.
+I'm Ijas Mohamad, a self-taught software developer passionate about leveraging cutting-edge technologies to tackle digital challenges. With expertise in diverse tools and frameworks like Java, Spring boot, Golang, Echo, JavaScript, Node.js, TypeScript, Fastify, Express.js, React.js, Redux, MongoDB and PostgreSQL, I specialize in full-stack development.
 
 Outside of work, I'm an avid learner, continuously expanding my skill set and contributing to the developer community through open-source projects and participation in coding competitions. Let's connect and explore how we can innovate together!
 
