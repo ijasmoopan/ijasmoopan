@@ -63,6 +63,87 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
 </div>
 
 <br>
+
+<h2>💼 Skills</h2>
+
+<table>
+  <tr>
+    <td><strong>🧑‍💻 Languages</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+      <img src="https://vitejs.dev/logo.svg" width="40" />
+    </td>
+  </tr>
+<!--   <tr>
+    <td><strong>📱 Mobile</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+    </td>
+  </tr> -->
+  <tr>
+    <td><strong>🧩 Backend</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+      <img src="https://www.fastify.io/images/fastify-logo-inlined.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" />
+        <img src="https://raw.githubusercontent.com/labstack/echo/master/website/public/images/logo.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Database & ORM</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ DevOps</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+      <img src="https://traefik.io/static/traefik-logo.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools & IDEs</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
+    </td>
+  </tr>
+<!--   <tr>
+    <td><strong>🐧 Operating Systems</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" />
+      <img src="https://www.kali.org/images/kali-logo.svg" width="40" />
+    </td>
+  </tr> -->
+</table>
+
+<br>
               
 ## ⚙️ GitHub Analytics
 <p align="center">
