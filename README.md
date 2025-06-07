@@ -86,19 +86,13 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
       <img src="https://vitejs.dev/logo.svg" width="40" />
     </td>
   </tr>
-<!--   <tr>
-    <td><strong>📱 Mobile</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-    </td>
-  </tr> -->
   <tr>
     <td><strong>🧩 Backend</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-      <img src="https://www.fastify.io/images/fastify-logo-inlined.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-ar21~bgwhite.svg" width="40" />
       <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" />
-        <img src="https://raw.githubusercontent.com/labstack/echo/master/website/public/images/logo.svg" width="40" />
+        <img src="https://avatars.githubusercontent.com/u/2624634?s=48&v=4" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
     </td>
   </tr>
@@ -122,7 +116,7 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="40" />
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td><strong>🛠️ Tools & IDEs</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
@@ -132,7 +126,7 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
     </td>
-  </tr>
+  </tr> -->
 <!--   <tr>
     <td><strong>🐧 Operating Systems</strong></td>
     <td>
