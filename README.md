@@ -101,32 +101,30 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+      <img src="https://img.icons8.com/?size=96&id=9nLaR5KFGjN0&format=png" width="40" />
+        <img src="https://www.prisma.io/docs/ai_button.svg" width="40" />
     </td>
   </tr>
   <tr>
     <td><strong>⚙️ DevOps</strong></td>
     <td>
+      <img src="https://blog.opsmx.com/wp-content/uploads/2022/03/Standard-DevOps-CICD.png" width="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-      <img src="https://traefik.io/static/traefik-logo.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="40" />
+      <img src="https://doc.traefik.io/assets/traefik-labs-white.svg" width="40" />
+      <img src="https://img.icons8.com/?size=128&id=wU62u24brJ44&format=png" width="40" />
+<!--       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="40" /> -->
     </td>
   </tr>
-<!--   <tr>
-    <td><strong>🛠️ Tools & IDEs</strong></td>
+  <tr>
+    <td><strong>🛠️ Tools</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" />
+      <img src="https://img.icons8.com/?size=128&id=52539&format=png" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
     </td>
-  </tr> -->
+  </tr>
 <!--   <tr>
     <td><strong>🐧 Operating Systems</strong></td>
     <td>
