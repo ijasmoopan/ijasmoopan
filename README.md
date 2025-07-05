@@ -126,6 +126,7 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" width="40" />
       <img src="https://img.icons8.com/m_rounded/512/chatgpt.png" width="40" />
+      <img src="https://www.svgrepo.com/show/342128/postman.svg" width="40" />
     </td>
   </tr>
 <!--   <tr>
