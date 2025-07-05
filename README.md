@@ -127,6 +127,10 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" width="40" />
       <img src="https://img.icons8.com/m_rounded/512/chatgpt.png" width="40" />
       <img src="https://www.svgrepo.com/show/342128/postman.svg" width="40" />
+      <img src="https://images.icon-icons.com/3053/PNG/512/jira_cloud_macos_bigsur_icon_190051.png" width="40" />
+      <img src="https://pbs.twimg.com/profile_images/1451297216187011072/xLd1JSZk_400x400.png" width="40" />
+      <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="40" />
+      <img src="https://www.svgrepo.com/show/354332/sentry-icon.svg" width="40" />
     </td>
   </tr>
 <!--   <tr>
