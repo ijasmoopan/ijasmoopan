@@ -124,6 +124,7 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
       <img src="https://img.icons8.com/?size=128&id=52539&format=png" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" width="40" />
     </td>
   </tr>
 <!--   <tr>
