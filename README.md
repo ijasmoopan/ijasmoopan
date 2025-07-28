@@ -98,7 +98,7 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
     </td>
   </tr>
   <tr>
-    <td><strong>🗄️ Database & ORM</strong></td>
+    <td><strong>🗄️ Databases & ORMs</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
@@ -111,9 +111,11 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
     <td><strong>⚙️ DevOps</strong></td>
     <td>
       <img src="https://blog.opsmx.com/wp-content/uploads/2022/03/Standard-DevOps-CICD.png" width="60" />
+      <img src="https://www.svgrepo.com/download/372275/ci-cd.svg" width="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
       <img src="https://doc.traefik.io/assets/traefik-labs-white.svg" width="40" />
       <img src="https://img.icons8.com/?size=128&id=wU62u24brJ44&format=png" width="40" />
+      <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="40" />
 <!--       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="40" /> -->
     </td>
@@ -126,9 +128,9 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" width="40" />
       <img src="https://img.icons8.com/m_rounded/512/chatgpt.png" width="40" />
-      <img src="https://www.svgrepo.com/show/342128/postman.svg" width="40" />
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" />
       <img src="https://images.icon-icons.com/3053/PNG/512/jira_cloud_macos_bigsur_icon_190051.png" width="40" />
-      <img src="https://pbs.twimg.com/profile_images/1451297216187011072/xLd1JSZk_400x400.png" width="40" />
+      <img src="https://www.pngrepo.com/png/374111/512/swagger.png" width="40" />
       <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="40" />
       <img src="https://www.svgrepo.com/show/354332/sentry-icon.svg" width="40" />
     </td>
