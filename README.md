@@ -168,10 +168,10 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
 
 <br>
 
-## ⚙️ LeetCode Analytics
+<!-- ## ⚙️ LeetCode Analytics
 <p align="center">
     <a href="https://leetcode.com/ijasmoopan/"><img width="48%" src="https://leetcode.card.workers.dev/ijasmoopan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-</p>
+</p> -->
 
 ## 🏊‍♂️ Contribution Graph
 
