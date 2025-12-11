@@ -165,8 +165,7 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
 <br>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ijasmoopan&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
+![github-trophies](https://github-profile-trophy.vercel.app/?username=ijasmoopan&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 <br>
 
 <!-- ## ⚙️ LeetCode Analytics
