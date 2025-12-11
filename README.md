@@ -159,7 +159,7 @@ Open to exciting opportunities where I can contribute my expertise and drive inn
 </p>
 
 <p align="center">
-  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ijasmoopan&theme=dark" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ijasmoopan&theme=tokyonight_duo" alt="ijasmoopan streak badge" height="180em" />
 </p>
 
 <br>
