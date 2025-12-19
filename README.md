@@ -16,7 +16,7 @@
 
 <br>
 
-<h4>Software Engineer | Go | Java | JavaScript</h4> 
+<h4>Software Engineer | Go | Java | JavaScript | TypeScript</h4> 
 
 
 <p>
