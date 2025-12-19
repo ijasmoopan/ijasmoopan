@@ -32,8 +32,6 @@ I'm Ijas Mohamad, a self-taught software developer passionate about leveraging c
 
 Outside of work, I'm an avid learner, continuously expanding my skill set and contributing to the developer community through open-source projects and participation in coding competitions. Let's connect and explore how we can innovate together!
 
-Open to exciting opportunities where I can contribute my expertise and drive innovation in software development.
-
 ## 😎 You can reach me by
 <div>
   <samp>
