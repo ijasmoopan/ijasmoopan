@@ -16,7 +16,7 @@
 
 <br>
 
-<h4>Software Engineer | Golang | Java | JavaScript | TypeScript</h4> 
+<h4>Software Engineer | Golang | Java | JavaScript | TypeScript | AWS</h4> 
 
 
 <p>
