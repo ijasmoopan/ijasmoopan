@@ -16,7 +16,7 @@
 
 <br>
 
-<h4>Software Engineer | Go | Java | JavaScript | TypeScript</h4> 
+<h4>Software Engineer | Golang | Java | JavaScript | TypeScript</h4> 
 
 <p>
     <img src="https://img.shields.io/github/followers/ijasmoopan?logo=github&style=plastic" alt="GitHub Followers" />
