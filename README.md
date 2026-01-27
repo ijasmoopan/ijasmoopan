@@ -161,9 +161,13 @@ Outside of work, I'm an avid learner, continuously expanding my skill set and co
 
 <br>
 
-## 🏆GitHub Trophies
+<!-- ## 🏆GitHub Trophies
 ![github-trophies](https://github-profile-trophy.vercel.app/?username=ijasmoopan&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-<br>
+<br> -->
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/ijasmoopan)
 
 <!-- ## ⚙️ LeetCode Analytics
 <p align="center">
