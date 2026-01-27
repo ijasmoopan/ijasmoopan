@@ -17,7 +17,6 @@
 <br>
 
 <h4>Software Engineer | Golang | Java | JavaScript | TypeScript</h4> 
-
 <p>
     <img src="https://img.shields.io/github/followers/ijasmoopan?logo=github&style=plastic" alt="GitHub Followers" />
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ijasmoopan?style=flat-square&labelColor=343b41"/>
@@ -25,45 +24,50 @@
     <img src="https://wakatime.com/badge/user/64278bbc-bae0-4574-b438-50d306afb46a.svg" alt="Total time coded since Aug 18 2024" />
 </p>
 
+
 # 👨‍💻 About me
 
 I'm Ijas Mohamad, a self-taught software developer passionate about leveraging cutting-edge technologies to tackle digital challenges. With expertise in diverse tools and frameworks like Java, Spring boot, Golang, Echo, JavaScript, Node.js, TypeScript, Fastify, Express.js, React.js, Redux, MongoDB and PostgreSQL, I specialize in full-stack development.
 
 Outside of work, I'm an avid learner, continuously expanding my skill set and contributing to the developer community through open-source projects and participation in coding competitions. Let's connect and explore how we can innovate together!
 
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ijasmoopan)
+
 ## 😎 You can reach me by
 <div>
-  <samp>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/ijasmoopan/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/ijasmoopan" target="blank">
+      <img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-      <a href="https://www.facebook.com/profile.php?id=100009847590090" target="blank"><img align="center"
+         alt="ijasmoopan" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009847590090" target="blank">
+      <img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-      <a href="mailto:ijasmoopan46@gmail.com" target="blank"><img align="center"
+         alt="ijasmoopan" height="30"/>
+  </a>
+  <a href="mailto:ijasmoopan46@gmail.com" target="blank">
+      <img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/ijasmoopan/" target="blank"><img align="center"
+         alt="ijasmoopan" height="30"/>
+  </a>
+  <a href="https://instagram.com/ijasmoopan" target="blank">
+      <img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-      <a href="https://wa.me/+917034464400" target="blank"><img align="center"
+         alt="ijasmoopan" height="30"/>
+  </a>
+  <a href="https://wa.me/+917034464400" target="blank">
+      <img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="+917034464400" height="30"/></a>
-      <a href="https://x.com/ijasmoopan" target="blank"><img align="center"
+         alt="+917034464400" height="30"/>
+  </a>
+  <a href="https://x.com/ijasmoopan" target="blank">
+      <img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="ijasmoopan" height="30"/></a>
-      <br>
-    </p>
-  </samp>
+         alt="ijasmoopan" height="30"/>
+  </a>
 </div>
 
-<br>
-
-<h2>💼 Skills</h2>
+## 💼 Skills
 
 <table>
   <tr>
@@ -165,18 +169,24 @@ Outside of work, I'm an avid learner, continuously expanding my skill set and co
 ![github-trophies](https://github-profile-trophy.vercel.app/?username=ijasmoopan&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 <br> -->
 
-## GitHub Activity
+## 🏊‍♂️ GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/ijasmoopan)
+<p align="center">
+    <img src="https://ghchart.rshah.org/ijasmoopan">
+    <img src="https://render.gitanimals.org/lines/ijasmoopan">
+</p>
+
+<br>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijasmoopan&theme=github&hide_border=true" width="80%">
+</p>
 
 <!-- ## ⚙️ LeetCode Analytics
 <p align="center">
     <a href="https://leetcode.com/ijasmoopan/"><img width="48%" src="https://leetcode.card.workers.dev/ijasmoopan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p> -->
 
-## 🏊‍♂️ Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ijasmoopan&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
 
 ## 👨‍💻 Repositories
 
