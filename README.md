@@ -1,29 +1,25 @@
-<div>
-    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-    <br>
-    <p align="center">
-        <!-- <h1 align="center">✩&emsp;ijas&emsp;✩</h1> -->
-        <h1 align="center">ijas</h1>
-    </p>
-    <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-    </p>
-    <br>
-    <br>
-    <p align="center" width="100%">Stay Curious!</p>
+<div align="center">
+
+# Hi, I'm Ijas Moopan 👋
+
+### Software Engineer | Go | Java | JavaScript | Dart
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40ijasmoopan-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/ijasmoopan) 
+[![X Follow](https://www.shieldcn.dev/x/follow/ijasmoopan.svg?variant=branded&size=sm)](https://x.com/ijasmoopan) 
+<!-- [![Website](https://www.shieldcn.dev/badge/Website-portfolio.ijasmoopan.in-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://portfolio.ijasmoopan.in) -->
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40ijasmoopan-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/ijasmoopan) 
+[![Instagram](https://www.shieldcn.dev/badge/Instagram-ijasmoopan-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/ijasmoopan)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/ijasmoopan.svg?variant=secondary&size=sm)](https://github.com/ijasmoopan?tab=followers) 
+[![GitHub Stars](https://www.shieldcn.dev/github/user-stars/ijasmoopan.svg?variant=secondary&size=sm)](https://github.com/ijasmoopan?tab=repositories) 
+[![Public Repos](https://www.shieldcn.dev/badge/Repos-65-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/ijasmoopan?tab=repositories) 
+![Location](https://www.shieldcn.dev/badge/Location-Kochi%2C_Kerala%2C_India-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) 
+![Company](https://www.shieldcn.dev/badge/Company-dichit--money_-1f2937.svg?logo=building&variant=ghost&size=sm)
+
+<img src="https://komarev.com/ghpvc/?username=ijasmoopan" alt="ijasmoopan" /> 
+<img src="https://wakatime.com/badge/user/64278bbc-bae0-4574-b438-50d306afb46a.svg" alt="Total time coded since Aug 18 2024" />
+
 </div>
-
-<br>
-
-<h4>Software Engineer | Golang | Java | JavaScript | TypeScript</h4> 
-<p>
-    <img src="https://img.shields.io/github/followers/ijasmoopan?logo=github&style=plastic" alt="GitHub Followers" />
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ijasmoopan?style=flat-square&labelColor=343b41"/>
-    <img src="https://komarev.com/ghpvc/?username=ijasmoopan" alt="ijasmoopan" /> 
-    <img src="https://wakatime.com/badge/user/64278bbc-bae0-4574-b438-50d306afb46a.svg" alt="Total time coded since Aug 18 2024" />
-</p>
-
 
 # 👨‍💻 About me
 
