@@ -8,7 +8,7 @@
 [![X Follow](https://www.shieldcn.dev/x/follow/ijasmoopan.svg?variant=branded&size=sm)](https://x.com/ijasmoopan) 
 <!-- [![Website](https://www.shieldcn.dev/badge/Website-portfolio.ijasmoopan.in-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://portfolio.ijasmoopan.in) -->
 [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40ijasmoopan-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/ijasmoopan) 
-[![Instagram](https://www.shieldcn.dev/badge/Instagram-ijasmoopan-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/ijasmoopan)
+[![Instagram](https://www.shieldcn.dev/badge/Instagram-%40ijasmoopan-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/ijasmoopan)
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/ijasmoopan.svg?variant=secondary&size=sm)](https://github.com/ijasmoopan?tab=followers) 
 [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/ijasmoopan.svg?variant=secondary&size=sm)](https://github.com/ijasmoopan?tab=repositories) 
