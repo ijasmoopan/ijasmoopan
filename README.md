@@ -102,7 +102,7 @@ Outside of work, I'm an avid learner, continuously expanding my skill set and co
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
       <img src="https://img.icons8.com/?size=96&id=9nLaR5KFGjN0&format=png" width="40" />
-        <img src="https://www.prisma.io/docs/ai_button.svg" width="40" />
+      <img src="https://www.prisma.io/docs/ai_button.svg" width="40" />
     </td>
   </tr>
   <tr>
