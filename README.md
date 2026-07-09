@@ -91,7 +91,7 @@ Outside of work, I'm an avid learner, continuously expanding my skill set and co
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
       <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-ar21~bgwhite.svg" width="40" />
       <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" />
-        <img src="https://avatars.githubusercontent.com/u/2624634?s=48&v=4" width="40" />
+      <img src="https://avatars.githubusercontent.com/u/2624634?s=48&v=4" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
     </td>
   </tr>
