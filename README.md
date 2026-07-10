@@ -23,9 +23,9 @@
 
 # 👨‍💻 About me
 
-I'm Ijas Mohamad, a self-taught software developer passionate about leveraging cutting-edge technologies to tackle digital challenges. With expertise in diverse tools and frameworks like Java, Spring boot, Golang, Echo, JavaScript, Node.js, TypeScript, Fastify, Express.js, React.js, Redux, MongoDB and PostgreSQL, I specialize in full-stack development.
+Hi, I’m Ijas Moopan — a software engineer passionate about building scalable products, AI-powered applications, and high-performing engineering teams.
 
-Outside of work, I'm an avid learner, continuously expanding my skill set and contributing to the developer community through open-source projects and participation in coding competitions. Let's connect and explore how we can innovate together!
+I enjoy designing reliable systems, solving complex technical challenges, contributing to open source, and continuously learning and sharing with the developer community.
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ijasmoopan)
 
