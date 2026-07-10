@@ -186,7 +186,7 @@ Outside of work, I'm an avid learner, continuously expanding my skill set and co
 
 ## 👨‍💻 Repositories
 
-<h4 align="center">
-  <a href="https://github.com/ijasmoopan?tab=repositories" title="Show Repositories">Show More</a>
+<h4 align="left">
+  <a href="https://github.com/ijasmoopan?tab=repositories" title="Show Repositories">See All</a>
 </h4>
 
