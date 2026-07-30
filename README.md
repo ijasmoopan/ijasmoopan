@@ -27,7 +27,7 @@ Hi, I’m Ijas Moopan — a software engineer passionate about building scalable
 
 I enjoy designing reliable systems, solving complex technical challenges, contributing to open source, and continuously learning and sharing with the developer community.
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ijasmoopan)
+<!--![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ijasmoopan)-->
 
 ## 😎 You can reach me by
 <div>
