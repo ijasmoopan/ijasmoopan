@@ -114,7 +114,7 @@ I enjoy designing reliable systems, solving complex technical challenges, contri
       <img src="https://doc.traefik.io/assets/traefik-labs-white.svg" width="40" />
       <img src="https://img.icons8.com/?size=128&id=wU62u24brJ44&format=png" width="40" />
       <img src="https://www.svgrepo.com/show/373924/nginx.svg" width="40" />
-<!--       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" />
+      <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="40" /> -->
     </td>
   </tr>
