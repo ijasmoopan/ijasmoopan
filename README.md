@@ -2,7 +2,7 @@
 
 # Hi, I'm Ijas Moopan 👋
 
-### Software Engineer | Go | Java | JavaScript
+### Software Engineer | Go | Java
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40ijasmoopan-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/ijasmoopan) 
 [![X Follow](https://www.shieldcn.dev/x/follow/ijasmoopan.svg?variant=branded&size=sm)](https://x.com/ijasmoopan) 
