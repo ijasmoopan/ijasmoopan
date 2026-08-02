@@ -133,14 +133,6 @@ I enjoy designing reliable systems, solving complex technical challenges, contri
       <img src="https://www.svgrepo.com/show/354332/sentry-icon.svg" width="40" />
     </td>
   </tr>
-  <!-- <tr>
-    <td><strong>🐧 Operating Systems</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" />
-      <img src="https://www.kali.org/images/kali-logo.svg" width="40" />
-    </td>
-  </tr> -->
 </table>
 
 <br>
