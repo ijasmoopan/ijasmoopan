@@ -29,7 +29,7 @@ I enjoy designing reliable systems, solving complex technical challenges, contri
 
 <!--![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ijasmoopan)-->
 
-## 😎 You can reach me by
+<!-- ## 😎 You can reach me by
 <div>
   <a href="https://www.linkedin.com/in/ijasmoopan" target="blank">
       <img align="center"
@@ -61,7 +61,7 @@ I enjoy designing reliable systems, solving complex technical challenges, contri
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="ijasmoopan" height="30"/>
   </a>
-</div>
+</div> -->
 
 ## 💼 Skills
 
