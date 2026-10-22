@@ -23,7 +23,7 @@
 
 # 👨‍💻 About me
 
-Hi, I’m Ijas — a software engineer passionate about building scalable products, AI-powered applications, and high-performing engineering teams.
+Hi, I’m Ijas Moopan — a software engineer passionate about building scalable products, AI-powered applications, and high-performing engineering teams.
 
 I enjoy designing reliable systems, solving complex technical challenges, contributing to open source, and continuously learning and sharing with the developer community.
 
